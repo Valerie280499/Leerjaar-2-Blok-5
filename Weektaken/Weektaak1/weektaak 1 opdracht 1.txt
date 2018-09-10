@@ -1,0 +1,46 @@
+Geef de defnities van de volgende begrippen: 
+
+proteïne domein: 
+De verschillende domeinen waaruit een proteïne is opgebouwd zijn van 
+belang voor zijn functie, structuur, hydrofobiciteit.. etc. 
+
+proteïne familie:
+Sommige domeinen kunnen overeenkomen in verschillende proteïnes. Deze gedeelde
+domeinen maken dan dat proteïnes uit eenzelfde familie komen. 
+
+consensus sequence:
+Terug komende patronen in familie eitwitten. 
+
+pattern, signature, fingerprint, motif.
+
+position specific scoring matrix (PSSM):
+Position Specific Scoring Matrix. Een matrix die met behulp van scores per 
+positie aangeeft hoe goed een aminozuur past. 
+
+Hidden Markov Model (HMM):
+Hidden Markoo Model. Een model dat de stistische kans aangeeft op een aminozuur 
+of een gap. 
+
+profile:
+
+Wat is Gene Ontology (GO)? Hoe is GO opgebouwd? 
+Het doel van GO is om de weergave van de eigenschappen van genen en de
+genproducten te standaardiseren. Onafhankelijk waar ze vandaan komen. WIKI
+1. Het kunnen benoemen van eigenschappen van genen en hun producten. 
+2. Annoteren van genen en genproducten en het samenbregen en verspreiden van annotaties.
+3. Het toegankelijk maken van alle verkregen gegevens. 
+
+Noem 2 voorbeelden waarvoor je Gene Ontology kan gebruiken?
+1. Het annoteren van nog onbekende eigenschappen van genen. 
+2. Het vergelijken van verschillende annotaties voor dezelfde eigenschap. 
+
+Wat zijn kenmerken van transmembraan segmenten? 
+1. Betha sheets
+2. alpha helixen 
+
+Noem 3 verschillende manieren/algorithmes om een transmembraan segment te voorspellen.
+1. Uniprot 
+2. Pfam
+3. InterPro
+
+

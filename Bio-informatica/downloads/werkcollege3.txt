@@ -1,0 +1,33 @@
+Werkcollege 3
+
+We gaan onderzoek doen aan MAPK substraten in de plant defense response. 
+Als onderzoeksmodel gebruiken we MPK3 en MPK6 die door MKK5 geactiveerd worden als de plant blootgesteld wordt aan pathogene of andere stress factoren.
+
+Substraat: Substrate (biochemistry), a molecule that is acted upon by an enzyme.
+Dus we zoeken naar eiwitten die door MPK3 en MPK6 worden gefosforyleerd als deze eiwitten zijn geactiveerd door MKK5.
+
+1) Wat is de biogische functie van MKK5, MPK3 en MPK6? (biological process, molecular function, cellular location)
+   
+2) Wanneer zijn MKK5, MPK3 of MPK6 biologisch actief? (post-translational processing/modifications, cellular translocation, interactions with other proteins or molecules)
+
+3) MKK5 en MPK3 en MPK6 zijn onderdeel van een MAPK signalling cascade. Wat is dat? Wat is het doel van een signalling cascade? 
+Literatuur: Campbell biology 
+
+4) Welke eiwitten zijn er al bekend die interactie hebben met MPK3 en MPK6?
+- pathway databases
+- protein-protein interaction databases
+Literatuur: Pevsner blz 672 - 686
+
+
+5) Welke samples worden er in het onderzoek van Lassowskat gebruikt?
+
+
+6) Wat is het doel van elk van deze samples?
+
+Let op de schrijfwijze: 
+MPK3 = eiwit
+mpk3 = gen
+<italic>mpk3</italic> = knock out mutant
+
+
+

@@ -1,0 +1,27 @@
+Opdracht 1:
+
+Bekijk TNFA_Human of een van de eiwitten van afgelopen week via Uniprot. Links naar familie en domein databases. Links naar 3D structuren.
+
+Wat is de topology van TNFA_Human? Welk type membraan eiwit?
+
+Bekijk TNFA_Human via de Interpro. In het hoofdscherm overzicht van links naar familie en domein databases. Via overview structures kan je 3D structuren bekijken.
+
+Bekijk de primaire, secundaire, teriaire en quaternaire structuur van humaan TNF alpha (P01375) --> PDB, PDBe
+
+Tot welke categorie structuren behoort het TNF domein?  --> SCOP, CATH
+
+
+Opdracht 2:
+
+Voorspel de Secundaire structuur van TNFA_Human of een van de eiwitten van afgelopen week en vergelijk met PDB structuur. --> Vind tool via Expasy/proteomics/protein structure
+
+kan je ook de 3D structuur van het eiwit goed voorspellen?
+
+
+Opdracht 3:
+
+Welke interactie partners heeft Humaan TNF of een van de eiwitten van afgelopen week? --> vind database via Expasy/proteomics/protein-protein interactions --> STRING
+
+Bekijk via Uniprot P01375/Interaction
+
+Bekijk via databases DIP (http://dip.doe-mbi.ucla.edu/dip/Main.cgi), EBI: IntAct. Zoek met P01375 of TNFA
