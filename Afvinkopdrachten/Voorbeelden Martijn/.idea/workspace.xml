@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49875a03-b61b-4722-98fd-4121ef37a31d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Afvink5/Leerjaar2 Blok5 Afvink5.2/Leerjaar2 Blok5 Afvink5.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Afvink6/Leerjaar2 Blok5 Afvink6/src/yanaara/YANAARA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Afvink6/Leerjaar2 Blok5 Afvink6/src/yanaara/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/uitwerkingHBI-5a-T.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/src/com.company/GUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/src/com.company/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/src/com.company/NotIPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thematoets1314/uitwerkingHBI-5a-T/src/com.company/UitwerkingHBI5aT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oefentoets/GUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oefentoets/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oefentoets/NotIPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oefentoets/UitwerkingHBI5aT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink3.1/Leerjaar2 Blok5 Afvink3/src/com/company/Paard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink3.1/Leerjaar2 Blok5 Afvink3/src/com/company/Race.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink5/Leerjaar2 Blok5 Afvink5.2/src/com/company/Afvinkopdracht_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Afvink5/Leerjaar2 Blok5 Afvink5.2/src/com/company/Afvinkopdracht_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink5/Leerjaar2 Blok5 Afvink5.2/src/com/company/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Afvink5/Leerjaar2 Blok5 Afvink5.2/src/com/company/Translator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink7/GIT/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Afvink7/GIT/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink7/GIT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Afvink7/GIT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink7/GIT/GIT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink7/GIT/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afvink7/Leerjaar2 Blok5 Afvink7/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weektaken/Project week 3tot7/Data-tabel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weektaken/Project week 3tot7/content_weektaak-3-7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weektaken/Weektaak1/weektaak 1 opdracht1.docx" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-472962967">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="form" value="1" />
+          <entry key="java" value="40" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="JAVA" value="40" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="java" value="3849" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3849" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/Oefentoets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#createGUI#0;class#Oefentoets#0" />
+                <element signature="method#actionPerformed#0;class#Oefentoets#0" />
+                <element signature="method#openfile#0;class#Oefentoets#0" />
+                <element signature="method#drawsomething#0;class#Oefentoets#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/IPI1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <folding>
+                <element signature="method#initComponents#0;class#GUI#0" />
+                <element signature="method#main#0;class#GUI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/UitwerkingHBI5aT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/NotIPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inf</find>
+      <find>selectedFile</find>
+      <find>Uit</find>
+      <find>f1</find>
+      <find>jpanel</find>
+      <find>jpanel1</find>
+      <find>mis</find>
+      <find>fouten</find>
+      <find>Syste</find>
+      <find>notIPI</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Overloading.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Objecten2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Objecten1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/company/PizzaDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/com/company/openread.java" />
+        <option value="$PROJECT_DIR$/src/com/company/exceptionhandeling.java" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/GUI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/UitwerkingHBI5aT.java" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/NotIPI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/IPI1.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/oefentoets/Oefentoets.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="width" value="1390" />
+    <option name="height" value="1756" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Voorbeelden Martijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Voorbeelden Martijn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Voorbeelden Martijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Voorbeelden Martijn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Voorbeelden Martijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Voorbeelden Martijn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Voorbeelden Martijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Voorbeelden Martijn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="oefentoets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541063362926" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Afvink3/GIT/Leerjaar2 Blok5 Afvink3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vverh\Documents\HAN\Leerjaar-2-Blok-5\Afvinkopdrachten\Voorbeelden Martijn\src\com\company\oefentoets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.oefentoets.GUI" />
+      <module name="Voorbeelden Martijn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.oefentoets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.oefentoets.Oefentoets" />
+      <module name="Voorbeelden Martijn" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Objecten1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Objecten1" />
+      <module name="Voorbeelden Martijn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.oefentoets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.openread" />
+      <module name="Voorbeelden Martijn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.oefentoets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Objecten1" />
+      <item itemvalue="Application.openread" />
+      <item itemvalue="Application.GUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.openread" />
+        <item itemvalue="Application.Objecten1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49875a03-b61b-4722-98fd-4121ef37a31d" name="Default Changelist" comment="" />
+      <created>1537356438895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537356438895</updated>
+      <workItem from="1537356440284" duration="17000" />
+      <workItem from="1537357350163" duration="1007000" />
+      <workItem from="1537420141587" duration="25000" />
+      <workItem from="1537421102027" duration="3000" />
+      <workItem from="1537786122664" duration="2052000" />
+      <workItem from="1537800220392" duration="3048000" />
+      <workItem from="1538370302612" duration="589000" />
+      <workItem from="1538997124098" duration="3692000" />
+      <workItem from="1539246915118" duration="2195000" />
+      <workItem from="1539330210869" duration="1269000" />
+      <workItem from="1539414434761" duration="618000" />
+      <workItem from="1539502067979" duration="609000" />
+      <workItem from="1539504463230" duration="599000" />
+      <workItem from="1539516136789" duration="607000" />
+      <workItem from="1539581323073" duration="380000" />
+      <workItem from="1540398883508" duration="4465000" />
+      <workItem from="1540796657427" duration="1819000" />
+      <workItem from="1540921829199" duration="11137000" />
+      <workItem from="1540971041787" duration="10140000" />
+      <workItem from="1541068696793" duration="1522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45793000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="679" y="0" width="695" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40188384" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.397878" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32625994" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16628873" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32891247" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Objecten2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Frisdrank.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Pizza.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Pasta.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/PizzaDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Objecten1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyFirstGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MySecondGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Overloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/openread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/exceptionhandeling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/GUI.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="e#2433#2434#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="353" column="23" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="2048" selection-start-line="2048" selection-end-line="2048" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="555" selection-start-line="555" selection-end-line="555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/Oefentoets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createGUI#0;class#Oefentoets#0" />
+            <element signature="method#actionPerformed#0;class#Oefentoets#0" />
+            <element signature="method#openfile#0;class#Oefentoets#0" />
+            <element signature="method#drawsomething#0;class#Oefentoets#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/IPI1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <folding>
+            <element signature="method#initComponents#0;class#GUI#0" />
+            <element signature="method#main#0;class#GUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/UitwerkingHBI5aT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/oefentoets/NotIPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

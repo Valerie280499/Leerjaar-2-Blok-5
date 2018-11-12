@@ -1,0 +1,43 @@
+Control <- c(3.4, 1.6, 4.4, 2.9, 3.5, 2.3, 2.9, 2.8, 2.7, 2.5, 2.6, 2.3, 3.7, 1.6, 2.7, 1.6, 2.3, 3.0, 2.0, 2.3, 1.8, 3.2, 2.3, 2.0, 2.4, 2.6, 2.5, 2.4)
+
+mean(Control) # Moet 2.58 
+zijn
+sd(Control) # Moet 0.65 zijn
+
+
+
+Fertilized <- c(2.8, 1.9, 1.9, 2.7, 3.6, 2.3, 1.2, 1.8, 2.4, 2.7, 2.2, 2.6, 3.6, 1.3, 1.2, 3.0, 0.9, 1.4, 1.5, 1.2, 2.4, 2.6, 1.7, 1.8, 1.4, 1.7, 1.8, 1.5)
+
+mean(Fertilized) # Moet 2.04 zijn
+
+sd(Fertilized) # Moet 0.72 zijn
+
+
+
+t.test(Control, Fertilized, alternative = "two.sided", conf.level = 0.95)
+
+
+
+> 
+t.test(Control, Fertilized, alternative = "two.sided", conf.level = 0.95)
+
+        
+
+Welch Two Sample t-test
+
+data:  
+Control and Fertilized
+t = 2.9507, 
+df = 53.503, 
+p-value = 0.004696
+
+alternative 
+hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1739334 0.9117809
+
+sample estimates:
+
+mean of x mean of y 
+ 2.582143  2.039286 
+

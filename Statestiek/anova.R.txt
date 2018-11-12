@@ -1,0 +1,60 @@
+# INsert the diets in R
+
+\
+dieet1 <- c(5.5,5.4,6.1,5.9)
+dieet2 <- c(5.4,5.8,5.3,6.8)
+dieet3 <- c(6.1,6.3,6.7,7.1)
+dieet4 <- c(5.9,5.8,6.1,6.5)# Check the standard deviations
+
+sd(dieet1)
+sd(dieet2)
+sd(dieet3)
+sd(dieet4)
+
+
+
+# Make an appropriate 
+dataset
+dieet <- c("dieet1", "dieet1", "dieet1", "dieet1", "dieet2", "dieet2", "dieet2", "dieet2", "dieet3", "dieet3", "dieet3", "dieet3", "dieet4", "dieet4", "dieet4", "dieet4")
+
+alle_dieten <- c(dieet1, dieet2, dieet3, dieet4)
+data <- data.frame(cbind(alle_dieten, dieet), stringsAsFactors=FALSE)
+
+
+
+# Check
+dataset
+str(data)
+
+
+
+# Do the anova
+summary
+(aov(alle_dieten~dieet, data=data))
+
+
+
+# Output:
+            
+Df Sum Sq Mean Sq F value Pr(>F)
+dieet        
+3  1.627  0.5423   2.491   0.11
+
+Residuals   12  2.612  0.2177               
+
+
+
+Pr(>F) is 0.11. 
+
+Er is niet genoeg reden om de nul-hypothese te verwerpen.
+___________________________________________________________
+
+combined <- data.frame(cbind(Dieet1, Dieet2, Dieet3, Dieet4))
+
+stacked <- stack(combined)
+
+anova <- (values~ind, data = stacked)
+
+anova <- avo(values~ind, data = stacked)
+
+summary(anova)
